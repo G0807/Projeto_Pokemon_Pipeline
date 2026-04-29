@@ -41,8 +41,14 @@ class PokemonPipeline:
             return None
 
     def run(self, limit=100):
+        # Linha de debug para ver os nomes das abas no log do GitHub
+        titulos_abas = [w.title for w in self.sheet.worksheets()]
+        logging.info(f"Abas encontradas na planilha: {titulos_abas}")
+
         index_list = []
         stats_list = []
+        
+        # ... resto do código ...
         
         logging.info(f"Iniciando extração de {limit} Pokemons...")
         
