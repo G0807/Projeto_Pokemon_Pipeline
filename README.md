@@ -22,7 +22,7 @@ O projeto foi dividido em duas grandes frentes: **Engenharia de Dados** e **Aná
 ### 2. Análise Exploratória (Colab)
 Os dados gerados pelo pipeline são consumidos diretamente do Google Sheets para um ambiente de análise.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[(https://colab.research.google.com/drive/1wTp4ExjIK2ANY3GjPVdjOMkOt1YVKv0-?usp=sharing)])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/[(https://colab.research.google.com/drive/1wTp4ExjIK2ANY3GjPVdjOMkOt1YVKv0-?usp=sharing](https://colab.research.google.com/drive/1wTp4ExjIK2ANY3GjPVdjOMkOt1YVKv0-?usp=sharing))])
 
 No notebook, utilizamos a biblioteca **Pandas** para:
 * Limpeza e cruzamento das abas (Merge).
