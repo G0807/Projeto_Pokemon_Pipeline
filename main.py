@@ -79,6 +79,11 @@ class PokemonPipeline:
         except Exception as e:
             logging.error(f"Erro ao salvar no Google Sheets: {e}")
 
+# No bloco final do main.py, mude para:
 if __name__ == "__main__":
-    pipeline = PokemonPipeline()
-    pipeline.run(limit=100)
+    try:
+        pipeline = PokemonPipeline()
+        pipeline.run(limit=100)
+    except Exception as e:
+        logging.error(f"Erro fatal no pipeline: {e}", exc_info=True)
+        exit(1)
