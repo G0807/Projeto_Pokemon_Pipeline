@@ -1,3 +1,4 @@
+<img width="1189" height="690" alt="download" src="https://github.com/user-attachments/assets/c00bdb10-70c4-487c-8fc1-cf7df3be7bfa" />
 
 # ⚡ Pokémon Data Pipeline & Analytics
 
@@ -31,7 +32,8 @@ No notebook, utilizamos a biblioteca **Pandas** para:
 ## 🚀 Como visualizar os resultados
 A planilha alimentada pelo robô pode ser visualizada estruturalmente. As abas estão divididas entre identificação em metadados (ID, Nome, Imagem) e dados estritamente numéricos para facilitar a análise estatística sem poluição visual.
 
-*(Dica: Você pode colocar um print da sua planilha ou de um gráfico do Colab aqui! Basta arrastar a imagem para a caixa de texto do GitHub)*
+ <img width="953" height="549" alt="Captura de Tela (68)" src="https://github.com/user-attachments/assets/266b842d-2088-41d7-b1c1-32c7d5ede774" />
+
 
 ## 🛠️ Como rodar o código de Engenharia localmente
 
