@@ -1,4 +1,4 @@
-<img width="1189" height="690" alt="download" src="https://github.com/user-attachments/assets/c00bdb10-70c4-487c-8fc1-cf7df3be7bfa" />
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
 
 # ⚡ Pokémon Data Pipeline & Analytics
 
