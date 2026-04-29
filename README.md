@@ -32,7 +32,8 @@ No notebook, utilizamos a biblioteca **Pandas** para:
 ## 🚀 Como visualizar os resultados
 A planilha alimentada pelo robô pode ser visualizada estruturalmente. As abas estão divididas entre identificação em metadados (ID, Nome, Imagem) e dados estritamente numéricos para facilitar a análise estatística sem poluição visual.
 
- <img width="953" height="549" alt="Captura de Tela (68)" src="https://github.com/user-attachments/assets/266b842d-2088-41d7-b1c1-32c7d5ede774" />
+ <img width="1046" height="497" alt="Captura de Tela (69)" src="https://github.com/user-attachments/assets/e2ac2352-5cc9-4e92-9a4e-ae37beb36292" />
+
 
 
 ## 🛠️ Como rodar o código de Engenharia localmente
